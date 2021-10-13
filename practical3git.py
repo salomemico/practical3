@@ -1,7 +1,7 @@
 print('introdueix un numero')
 numero = input()
 numero = int(numero)
-contador = 1
+contador = 2
 total_numeros_div3 = 0
 while contador < numero:
     if contador % 3 == 0:
